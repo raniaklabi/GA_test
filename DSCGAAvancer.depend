@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549640526 source:c:\users\rania\desktop\thèse\projects\dscgaavancer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
